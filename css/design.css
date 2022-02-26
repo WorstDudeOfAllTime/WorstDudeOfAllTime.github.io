@@ -103,6 +103,10 @@ body{
     height: 100%;
     width: 100%;
 }
+.card-pic-long{
+height: auto;
+width: auto;
+}
 .card-bottom{
     display: flex;
     justify-content: center;
