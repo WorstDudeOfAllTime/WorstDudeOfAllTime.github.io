@@ -104,8 +104,10 @@ body{
     width: 100%;
 }
 .card-pic-long{
-height: auto;
-width: auto;
+    height: auto;
+    width: auto;
+    max-height: 240px;
+    max-width: 202px;
 }
 .card-bottom{
     display: flex;
